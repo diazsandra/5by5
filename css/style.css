@@ -1,0 +1,53 @@
+.container {
+	width: 960px;
+	padding-left: 14px; 
+	padding-right: 14px;
+	margin: 0px auto;
+}
+
+header {
+	padding: 15px 0px;
+	margin: 0;
+	background-color: #2E2E2E;
+	color: white;
+}
+
+.logo {
+	width: 80px;
+	height: 80px;
+}
+
+ /* SEPARAR LAS PALABRAS*/
+nav ul {
+	list-style-type: none;
+	margin: 0 -15 0 0;
+	padding-top: 34px;
+	float: right;
+	white-space: nowrap;
+	line-height: 14px; 
+	font-size: 14px;
+	font-family: Arial;
+	color: white;
+}
+
+nav li {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+nav li:hover a {
+	background: #585858;
+}
+
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+
+nav a:hover {
+	color: #fff;
+}
