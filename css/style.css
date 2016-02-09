@@ -112,6 +112,7 @@ h2, h5 {
 .galeria p {
 	font-size: 12px;
 	font-family: Arial;
+	text-align: left;
 }
 
 .icons {
@@ -123,3 +124,60 @@ h2, h5 {
 	font-size: 12px;
 	text-align: center;
 }
+
+
+
+footer {
+	padding: 15px 0px;
+	margin: 0;
+	background-color: #2E2E2E;
+	color: white;
+	height: auto;
+	text-align: center;
+}
+
+/* Checar cómo poner el menú al centro */
+
+.navfooter ul {
+	list-style-type: none;
+	margin: 0 -15px 0 0;
+	padding: 30px;
+	white-space: nowrap;
+	font-size: 12px;
+	font-family: Arial;
+	color: #CACFD2;
+	float: left;
+}
+
+.navfooter li {
+	position: relative;
+	margin: 0;
+	padding: 0 -15 0 0;
+}
+
+.navfooter li:hover a {
+	background: #585858;
+}
+
+.navfooter a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+
+.navfooter a:hover {
+	color: #fff;
+}
+
+.white {
+	color: white;
+}
+
+.creditos {
+	color: #808B96;
+	text-align: center;
+	font-size: 10px;  
+}
+
+
