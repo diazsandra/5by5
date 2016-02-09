@@ -97,7 +97,7 @@ h2, h5 {
 	float: left;
 	white-space: nowrap;
 	line-height: 14px; 
-	font-size: 14px;
+	font-size: 12px;
 	font-family: Arial;
 	color: #084B8A;
 }
@@ -110,7 +110,7 @@ h2, h5 {
 }
 
 .galeria p {
-	font-size: 14px;
+	font-size: 12px;
 	font-family: Arial;
 }
 
@@ -119,3 +119,7 @@ h2, h5 {
 	height: 10px;
 }
 
+.galeria div {
+	font-size: 12px;
+	text-align: center;
+}
