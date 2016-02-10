@@ -183,11 +183,7 @@ footer {
 /* Género */
 
 .genero {
-	background-image: url(http://45.media.tumblr.com/6e79dd6dbfa7248e60a48ba9c36c4a7d/tumblr_nfvqpd8cgr1qzeylbo1_1280.gif); no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+	background-image: url(http://static.tumblr.com/5uvtpxx/Dzlmplaee/light__4_.png); 
 }
 
 .containerg {
@@ -195,15 +191,16 @@ footer {
 	padding-left: 14px; 
 	padding-right: 14px;
 	margin: 0px auto;
+	background-image: url(http://45.media.tumblr.com/6e79dd6dbfa7248e60a48ba9c36c4a7d/tumblr_nfvqpd8cgr1qzeylbo1_1280.gif);
+
 }
 
 /* Investigar cómo poner opacity sin cubrir el contenido*/
 .headerg {
 	text-align: center;
 	font-size: 36px;
-	padding: 20px;
-	background-image: url(http://img08.deviantart.net/d24a/i/2012/174/0/7/purple_sky_custom_box_bg_by_pastel_kitty-d54kzg3.png);
 }
+	
 
 .sombra4 {
 color: #880E4F;
@@ -226,16 +223,13 @@ font-family: 'Verdana', cursive;
  }
 
 .citasfem {
-	background-image: url(http://img08.deviantart.net/d24a/i/2012/174/0/7/purple_sky_custom_box_bg_by_pastel_kitty-d54kzg3.png);
-	width: auto;
-	height: auto;
+	background-image: url(http://45.media.tumblr.com/6e79dd6dbfa7248e60a48ba9c36c4a7d/tumblr_nfvqpd8cgr1qzeylbo1_1280.gif);
 	padding: 10px;
 }
 
 .imgfem {
-	height: 200px;
+	height: 150px;
 	width: 100%; 
-	margin: 10px;
 	box-shadow: 1px 1px 1px 1px #D5D8DC;
 	position: relative;
 }
